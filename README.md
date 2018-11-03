@@ -1,1 +1,1 @@
-This is a lab repository for testing purposes
+This is a lab repository only for personal testing purposes
